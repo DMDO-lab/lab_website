@@ -1,11 +1,11 @@
 ---
-title: APUS Lab
-subtitle: Aerospace multi-Physical and Unconventional Systems
+title: DMDO Lab
+subtitle: Dynamical Systems and Multidisciplinary Design Optimization Lab
 layout: home
 callouts: home_callouts
 show_sidebar: false
 hero_height: is-medium
-hero_image: /img/home_mcr.gif
+hero_image: /img/wind_turbine.gif
 hero_darken: true
 ---
 
